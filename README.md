@@ -6,16 +6,20 @@ The knowledge gained from taking part in countless projects has shaped my abilit
 think creatively and work effectively as part of a team or on my own.
 
 ⚡ Experience
+
 Pristine Solutions Pvt Ltd. - Software Engineer (Present)
+
 • Implemented 'LogisticOne' Warehouse Management System,a complete Enterprise Resource Planning system integratedwith SAP Business One.
 • Working on full-stack web applications(Angular) which process, analyze, and render data visually.
 
 ITX360 Pvt Ltd. - Application Support Engineer (2019 - 2020)
+
 • Worked under 'KORBER' Warehouse Management System, a supply chain solution for control logistics network.
 • Ensured the operational processes in the business runsmoothly and enables users to conduct their business.
 • Used various ideas from distributed computing, large-scaledesign, real-time data processing and data storage to solvechallenging dataset problems.
 
 🌱 Education
+
 Sri Lanka Institute of Information Technology
 • BSc (Hons) in Information Technology Specialised in Information Technology.
 
