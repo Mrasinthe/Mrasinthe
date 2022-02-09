@@ -1,11 +1,11 @@
-😄 About
+~ 😄 About ~
 
 I am a full stack software engineer with nearly 2 years industrial experience, as an organised and highly creative individual, 
 I love the challenges of working within a dynamic and fast paced working environment. 
 The knowledge gained from taking part in countless projects has shaped my ability to adapt quickly, work efficiently, 
 think creatively and work effectively as part of a team or on my own.
 
-⚡ Experience
+~ ⚡ Experience ~
 
 Pristine Solutions Pvt Ltd. - Software Engineer (Present)
 
@@ -21,7 +21,7 @@ ITX360 Pvt Ltd. - Application Support Engineer (2019 - 2020)
 
 • Used various ideas from distributed computing, large-scaledesign, real-time data processing and data storage to solvechallenging dataset problems.
 
-🌱 Education
+~ 🌱 Education ~
 
 Sri Lanka Institute of Information Technology
 
