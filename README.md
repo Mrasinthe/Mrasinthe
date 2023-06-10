@@ -1,6 +1,6 @@
 ~ 😄 About ~
 
-I am a full stack software engineer with nearly 2 years industrial experience, as an organised and highly creative individual, 
+I am a full stack software engineer with nearly 4 years industrial experience, as an organised and highly creative individual, 
 I love the challenges of working within a dynamic and fast paced working environment. 
 The knowledge gained from taking part in countless projects has shaped my ability to adapt quickly, work efficiently, 
 think creatively and work effectively as part of a team or on my own.
@@ -23,6 +23,10 @@ ITX360 Pvt Ltd. - Application Support Engineer (2019 - 2020)
 
 ~ 🌱 Education ~
 
+University of Tartu
+
+• MSc in Software Engineering.
+
 Sri Lanka Institute of Information Technology
 
 • BSc (Hons) in Information Technology Specialised in Information Technology.
@@ -33,13 +37,13 @@ St. Joseph's College
 
 • GCE Ordinary Ordinary levels | 2013 (9A Passes)
 
-🔭 I’m currently working on Web applications, Bootstrap, Angular, Java, Python, SAP technologies...
+🔭 I’m currently working on Web applications, Springboot, Kafka, VueJs, Angular, Java, Python, TypeScript..
 
 🌱 I’m currently learning Docker, Kubernetes, React, Flutter and Cloud technologies...
 
 👯 I’m looking to collaborate on Web applications and Distibuted systems 
 
-💬 Ask me about Angular, TypeScript
+💬 Ask me about Java, Springboot, VueJs, Kafka, Angular
 
 📫 How to reach me:
 
