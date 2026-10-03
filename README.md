@@ -1,25 +1,7 @@
 ~ 😄 About ~
 
-I am a full stack software engineer with nearly 4 years industrial experience, as an organised and highly creative individual, 
-I love the challenges of working within a dynamic and fast paced working environment. 
-The knowledge gained from taking part in countless projects has shaped my ability to adapt quickly, work efficiently, 
-think creatively and work effectively as part of a team or on my own.
+IT professional with 7 years of experience across software development, business intelligence, database reporting, and application support. Strong hands-on experience with SQL, relational databases, BI reporting, data analysis, and translating business requirements into technical solutions.
 
-~ ⚡ Experience ~
-
-Pristine Solutions Pvt Ltd. - Software Engineer (Present)
-
-• Implemented 'LogisticOne' Warehouse Management System,a complete Enterprise Resource Planning system integratedwith SAP Business One.
-
-• Working on full-stack web applications(Angular) which process, analyze, and render data visually.
-
-ITX360 Pvt Ltd. - Application Support Engineer (2019 - 2020)
-
-• Worked under 'KORBER' Warehouse Management System, a supply chain solution for control logistics network.
-
-• Ensured the operational processes in the business runsmoothly and enables users to conduct their business.
-
-• Used various ideas from distributed computing, large-scaledesign, real-time data processing and data storage to solvechallenging dataset problems.
 
 ~ 🌱 Education ~
 
@@ -31,19 +13,6 @@ Sri Lanka Institute of Information Technology
 
 • BSc (Hons) in Information Technology Specialised in Information Technology.
 
-St. Joseph's College
-
-• GCE Advanced levels | 2016 – Math Stream (1A and 3S Passes)
-
-• GCE Ordinary Ordinary levels | 2013 (9A Passes)
-
-🔭 I’m currently working on Web applications, Springboot, Kafka, VueJs, Angular, Java, Python, TypeScript..
-
-🌱 I’m currently learning Docker, Kubernetes, React, Flutter and Cloud technologies...
-
-👯 I’m looking to collaborate on Web applications and Distibuted systems 
-
-💬 Ask me about Java, Springboot, VueJs, Kafka, Angular
 
 📫 How to reach me:
 
